@@ -1,0 +1,45 @@
+body {
+    color: red;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+body {
+    background-color: rgb(2, 2, 17);
+}
+
+body{
+    text-decoration: underline;
+}
+
+
+body{
+    font-style: italic;
+}
+
+.myDiv {
+    text-align: center;
+    
+}
+
+.myDiv2 {
+    position: relative;
+    border: 3px solid #e91111;
+}
+
+.myDiv3 {
+    background-color: rgb(219, 226, 219);
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
